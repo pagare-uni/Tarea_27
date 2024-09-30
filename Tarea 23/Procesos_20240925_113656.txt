@@ -1,5 +1,5 @@
 
-Nombre de imagen               PID Nombre de sesi¢n N£m. de ses Uso de memor
+Nombre de imagen               PID Nombre de sesiÂ¢n NÂ£m. de ses Uso de memor
 ========================= ======== ================ =========== ============
 System Idle Process              0 Services                   0         8 KB
 System                           4 Services                   0     6,388 KB
